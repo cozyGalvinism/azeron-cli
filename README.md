@@ -4,7 +4,7 @@ A small, unfinished CLI application intended to manage the Azeron Cyborg.
 
 The code is still in a very messy state and doesn't look very rusty yet, as the priority was to port it first and then transform the code to work better in Rust.
 
-If you want to try out the current state, you can run `cargo install --git https://github.com/cozyGalvinism/azeron-cli`, although there may be bugs.
+If you want to try out the current state, [you will need to install Rust first](https://rustup.rs). After you installed the latest stable version, you can run `cargo install --git https://github.com/cozyGalvinism/azeron-cli` to install it, although there may be bugs.
 
 **Use this software at your own risk! It is not fully tested yet and might brick your Azeron. If you don't know how to reflash the firmware, do not use this yet! You have been warned!**
 
