@@ -1,0 +1,23 @@
+[package]
+name = "azeron-cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["cozyGalvinism"]
+license = "GPL-3.0-only"
+description = "Work-in-progress software for managing the Azeron keypad on any operating system."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
+clap = { version = "3.2.22", features = ["derive"] }
+custom_error = "1.9.2"
+hidapi = { default-features = false, version = "1.4.1", features = ["illumos-static-libusb", "linux-static-hidraw"] }
+key-names = { git = "https://github.com/cozyGalvinism/key-names", branch = "fix-deps"}
+keyboard_query = "0.1.0"
+lazy_static = "1.4.0"
+md5 = "0.7.0"
+serde = { version = "1.0.139", features = ["derive"] }
+serde_json = "1.0.82"
+serde_repr = "0.1.8"
+signal-hook = "0.3.14"

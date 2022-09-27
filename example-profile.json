@@ -1,0 +1,718 @@
+{
+    "id": 3,
+    "name": "Profile #3",
+    "buttons": [
+        {
+            "id": 1,
+            "metaKeys": [],
+            "keyValues": [
+                32
+            ],
+            "pins": [
+                26,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 2,
+            "metaKeys": [],
+            "keyValues": [
+                49
+            ],
+            "pins": [
+                25,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 3,
+            "metaKeys": [],
+            "keyValues": [
+                81
+            ],
+            "pins": [
+                24,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 4,
+            "metaKeys": [],
+            "keyValues": [
+                90
+            ],
+            "pins": [
+                23,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 5,
+            "metaKeys": [
+                "ALT"
+            ],
+            "keyValues": [],
+            "pins": [
+                22,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 6,
+            "metaKeys": [],
+            "keyValues": [
+                50
+            ],
+            "pins": [
+                21,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 7,
+            "metaKeys": [],
+            "keyValues": [
+                71
+            ],
+            "pins": [
+                20,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 8,
+            "metaKeys": [],
+            "keyValues": [
+                88
+            ],
+            "pins": [
+                19,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 9,
+            "metaKeys": [
+                "SHIFT"
+            ],
+            "keyValues": [],
+            "pins": [
+                27,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 10,
+            "metaKeys": [],
+            "keyValues": [
+                51
+            ],
+            "pins": [
+                0,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 11,
+            "metaKeys": [],
+            "keyValues": [
+                82
+            ],
+            "pins": [
+                1,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 12,
+            "metaKeys": [],
+            "keyValues": [
+                67
+            ],
+            "pins": [
+                2,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 13,
+            "metaKeys": [],
+            "keyValues": [
+                73
+            ],
+            "pins": [
+                3,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 14,
+            "metaKeys": [
+                "CTRL"
+            ],
+            "keyValues": [],
+            "pins": [
+                4,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 15,
+            "metaKeys": [],
+            "keyValues": [
+                52
+            ],
+            "pins": [
+                5,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 16,
+            "metaKeys": [],
+            "keyValues": [
+                69
+            ],
+            "pins": [
+                8,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 17,
+            "metaKeys": [],
+            "keyValues": [
+                86
+            ],
+            "pins": [
+                9,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 18,
+            "metaKeys": [],
+            "keyValues": [
+                77
+            ],
+            "pins": [
+                10,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 19,
+            "metaKeys": [],
+            "keyValues": [
+                70
+            ],
+            "pins": [
+                11,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 20,
+            "metaKeys": [],
+            "keyValues": [
+                27
+            ],
+            "pins": [
+                12,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 21,
+            "metaKeys": [
+                0,
+                0,
+                0
+            ],
+            "keyValues": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "pins": [
+                14,
+                13
+            ],
+            "buttonType": 2,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": "HELLOOOO"
+        },
+        {
+            "id": 22,
+            "metaKeys": [],
+            "keyValues": [
+                84
+            ],
+            "pins": [
+                38,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 23,
+            "metaKeys": [],
+            "keyValues": [
+                187
+            ],
+            "pins": [
+                18,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 24,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                87,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 21,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 25,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                68,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 26,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                83,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 27,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                65,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 28,
+            "metaKeys": [],
+            "keyValues": [
+                80
+            ],
+            "pins": [
+                42,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 29,
+            "metaKeys": [],
+            "keyValues": [
+                9
+            ],
+            "pins": [
+                43,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 30,
+            "metaKeys": [],
+            "keyValues": [
+                75
+            ],
+            "pins": [
+                44,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 31,
+            "metaKeys": [],
+            "keyValues": [
+                76
+            ],
+            "pins": [
+                45,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 32,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                87,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 33,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                68,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 34,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                83,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 35,
+            "metaKeys": [
+                270,
+                51,
+                3
+            ],
+            "keyValues": [
+                65,
+                0,
+                0,
+                335
+            ],
+            "pins": [
+                39,
+                40
+            ],
+            "buttonType": 11,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 36,
+            "metaKeys": [],
+            "keyValues": [
+                79
+            ],
+            "pins": [
+                7,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 37,
+            "metaKeys": [],
+            "keyValues": [
+                80
+            ],
+            "pins": [
+                17,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        },
+        {
+            "id": 38,
+            "metaKeys": [],
+            "keyValues": [
+                76
+            ],
+            "pins": [
+                41,
+                255
+            ],
+            "buttonType": 1,
+            "macro": {
+                "repeat": false,
+                "steps": []
+            },
+            "userLabel": ""
+        }
+    ],
+    "isFavourite": true,
+    "isSoftware": true,
+    "hash": "265cdd71db25f5a9e518d39e6bca2a72"
+}
